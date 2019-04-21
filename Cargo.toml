@@ -1,0 +1,10 @@
+[package]
+name = "mandelbrot"
+version = "0.1.0"
+authors = ["Constantine Theocharis <kontheocharis@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num = "*"
+png_encode_mini = "*"
+raster = "*"
